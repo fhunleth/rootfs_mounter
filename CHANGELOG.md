@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.7.0
+
+* fwup 1.10.1
+* buildroot 2024.02
+* busybox: add support for udhcpc and tftp
+* Add fwup-tftp script to allow flashing via tftp
+
+## v0.6.0
+
+* Add support for gridpoint-edge
+* fwup 1.10.0
+
 ## v0.5.0
 
 * New features
